@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi, I'm Emad Bachari 👋
 
-<!--
-**Emad-b77/Emad-b77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer | JavaScript & React
 
-Here are some ideas to get you started:
+I'm focused on building responsive and user-friendly web interfaces with modern frontend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+
+- HTML5
+- CSS3, Flexbox, Responsive Design
+- JavaScript
+- React
+- React Hooks
+- React Router
+- REST APIs and Fetch
+- Git & GitHub
+
+🚀 Projects
+
+"React Practice" (https://github.com/Emad-b77/react-practice)
+
+A collection of React exercises and practical examples covering components, props, state, hooks, forms, API integration, and routing.
+
+🎯 Goals
+
+- Build practical frontend projects
+- Improve my JavaScript and React skills
+- Create clean, responsive, and maintainable web interfaces
